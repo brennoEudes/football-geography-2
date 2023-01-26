@@ -4,7 +4,7 @@
 
 This is my first Web Development project realized at IronHack Bootcamp - January/2023.
 
-## Game
+## The Game
 
 The game is a Quiz that will test your knowledge about the geography of football teams that will play in the FIFA Club World Cup - February/2023, in which each team is the champion of his continent.
 
