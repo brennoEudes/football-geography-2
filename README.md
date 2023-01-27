@@ -2,7 +2,7 @@
 
 ## Project
 
-This is my first Web Development project realized at IronHack Bootcamp - January/2023.
+This is my first Web Development project realized at IronHack Bootcamp - January/2023. To this work I have used the HTML, CSS and JavaScript.
 
 ## The Game
 
