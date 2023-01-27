@@ -15,7 +15,7 @@ const quizData = [
     c: "Morocco",
     d: "Pakistan",
     correct: "b",
-    img: "https://w7.pngwing.com/pngs/148/452/png-transparent-al-hilal-fc-saudi-crown-prince-cup-football-esteghlal-f-c-al-duhail-sc-al-hilal-fc-emblem-trademark-logo.png"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKcL-xRVn30ebQr5dZw-QKWV-q1r10VX4SKocyAPWXmjGGzS4z3ewdnLccMHMrwCvxGg&usqp=CAU"
   },
   {
     question: "Where is the football team from?",
@@ -51,7 +51,7 @@ const quizData = [
     c: "Morocco",
     d: "Algeria",
     correct: "c",
-    img: "https://img2.gratispng.com/20180607/ysq/kisspng-wydad-ac-raja-casablanca-caf-champions-league-caf-5b197e6d7fdf08.8672573015283974215238.jpg"
+    img: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Wydad-Athletic-Club-Casablanca-Logo.png"
   },
   {
     question: "Where is the football team from?",
